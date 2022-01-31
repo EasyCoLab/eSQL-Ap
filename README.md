@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EasyCoLab
+- 👋 Hi, I’m @eSQL-Ap or @EasyCoLab
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python via xD
 - 💞️ I’m looking to collaborate on VPS
